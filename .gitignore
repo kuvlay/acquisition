@@ -1,0 +1,16 @@
+node_modules
+
+express-tracker.md
+
+.env.*
+# Local configuration and development tools
+.env
+.env.*
+!.env.example
+.idea/
+.vscode/
+.qoder/
+.zencoder/
+*.key
+*.pem
+!PROVENANCE.md
