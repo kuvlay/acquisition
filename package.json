@@ -18,16 +18,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/aarish-io/acquisition.git"
+    "url": "git+https://github.com/kuvlay/acquisition.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "type": "module",
   "bugs": {
-    "url": "https://github.com/aarish-io/acquisition/issues"
+    "url": "https://github.com/kuvlay/acquisition/issues"
   },
-  "homepage": "https://github.com/aarish-io/acquisition#readme",
+  "homepage": "https://github.com/kuvlay/acquisition#readme",
   "dependencies": {
     "@neondatabase/serverless": "^1.0.2",
     "dotenv": "^17.2.3",
